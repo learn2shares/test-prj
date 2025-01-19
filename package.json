@@ -3,7 +3,8 @@
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "version": "1.1"
   },
   "dependencies": {
     "@neondatabase/serverless": "^0.9.5",
